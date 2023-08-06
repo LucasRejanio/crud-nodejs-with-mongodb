@@ -1,2 +1,3 @@
-# crud-nodejs-with-mongodb
-Project for Build and Dockerize a CRUD RESTful API using NodeJS and MongoDB
+# CRUD nodejs with mongodb
+
+Project to build and dockerize a CRUD RESTful API using NodeJS and MongoDB
